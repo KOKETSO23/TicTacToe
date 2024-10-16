@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeSubmissionConole.exe
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeSubmissionConole.deps.json
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeSubmissionConole.runtimeconfig.json
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeSubmissionConole.dll
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeSubmissionConole.pdb
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\bin\Debug\net8.0\TicTacToeRendererLib.dll
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.AssemblyInfo.cs
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacTo.E20F76A6.Up2Date
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.dll
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\refint\TicTacToeSubmissionConole.dll
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.pdb
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\TicTacToeSubmissionConole.genruntimeconfig.cache
+C:\Users\User\Downloads\TicTacToeSubmissionSln-master (1)\TicTacToeSubmissionSln-master\TicTacToeSubmissionConole\obj\Debug\net8.0\ref\TicTacToeSubmissionConole.dll
